@@ -1,1 +1,1 @@
-# my_codewar
+# my_codewars
